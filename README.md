@@ -15,3 +15,5 @@ To install the required dependencies, run the following command:
 ```pip install -r requirements.txt```
 
 Hope you enjoy the code ;)
+
+Andrea Procopio, Lorenzo Caputi, Giorgio Micaletto
